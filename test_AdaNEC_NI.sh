@@ -1,0 +1,1 @@
+python test_errnet.py --name ERRNet_AdaNEC_NI -r --icnn_path ./checkpoints/ERRNet_AdaNEC_NI/final_release.pt --hyper --nModel 1
